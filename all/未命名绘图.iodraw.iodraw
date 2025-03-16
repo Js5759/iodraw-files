@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Ub_-HP-XMCBiVcG3gJi1">
-    <mxGraphModel dx="256" dy="151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="NteL7ta36HS6_8yq3vQt-16" value="清空版型工艺模板id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="1014" width="201" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="NteL7ta36HS6_8yq3vQt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="NteL7ta36HS6_8yq3vQt-17" target="NteL7ta36HS6_8yq3vQt-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NteL7ta36HS6_8yq3vQt-17" value="清空工艺模板品类id" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="1121" width="201" height="48" as="geometry" />
